@@ -5,7 +5,8 @@
 This repository contains the code used to reproduce the results of the manuscript: *Jouannais.P,Gibertoni.P, Bartoli.M, Pizzol.M, LCA to evaluate the environmental opportunity costs of biological performances in fish farming (under review)* 
 
 **Cite this repository:**
-[![DOI](https://zenodo.org/badge/507035901.svg)](https://zenodo.org/badge/latestdoi/507035901)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7759944.svg)](https://doi.org/10.5281/zenodo.7759944)
+
 
  
 ### Overview of folders and files:
